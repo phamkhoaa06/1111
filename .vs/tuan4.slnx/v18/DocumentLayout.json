@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khoa2\\source\\repos\\tuan4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB0B5B-CB3B-4E7B-9315-B626C93A948E}|tuan4\\tuan4.csproj|c:\\users\\khoa2\\source\\repos\\tuan4\\tuan4\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EB0B5B-CB3B-4E7B-9315-B626C93A948E}|tuan4\\tuan4.csproj|solutionrelative:tuan4\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB0B5B-CB3B-4E7B-9315-B626C93A948E}|tuan4\\tuan4.csproj|c:\\users\\khoa2\\source\\repos\\tuan4\\tuan4\\views\\sinhvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31EB0B5B-CB3B-4E7B-9315-B626C93A948E}|tuan4\\tuan4.csproj|solutionrelative:tuan4\\views\\sinhvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB0B5B-CB3B-4E7B-9315-B626C93A948E}|tuan4\\tuan4.csproj|c:\\users\\khoa2\\source\\repos\\tuan4\\tuan4\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31EB0B5B-CB3B-4E7B-9315-B626C93A948E}|tuan4\\tuan4.csproj|solutionrelative:tuan4\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Migrations\\20261005005937_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tuan4\\Migrations\\20261005005937_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB0B5B-CB3B-4E7B-9315-B626C93A948E}|tuan4\\tuan4.csproj|c:\\users\\khoa2\\source\\repos\\tuan4\\tuan4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EB0B5B-CB3B-4E7B-9315-B626C93A948E}|tuan4\\tuan4.csproj|solutionrelative:tuan4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB0B5B-CB3B-4E7B-9315-B626C93A948E}|tuan4\\tuan4.csproj|c:\\users\\khoa2\\source\\repos\\tuan4\\tuan4\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EB0B5B-CB3B-4E7B-9315-B626C93A948E}|tuan4\\tuan4.csproj|solutionrelative:tuan4\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB0B5B-CB3B-4E7B-9315-B626C93A948E}|tuan4\\tuan4.csproj|c:\\users\\khoa2\\source\\repos\\tuan4\\tuan4\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EB0B5B-CB3B-4E7B-9315-B626C93A948E}|tuan4\\tuan4.csproj|solutionrelative:tuan4\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB0B5B-CB3B-4E7B-9315-B626C93A948E}|tuan4\\tuan4.csproj|c:\\users\\khoa2\\source\\repos\\tuan4\\tuan4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31EB0B5B-CB3B-4E7B-9315-B626C93A948E}|tuan4\\tuan4.csproj|solutionrelative:tuan4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Views\\SinhVien\\Create.cshtml",
+              "RelativeDocumentMoniker": "tuan4\\Views\\SinhVien\\Create.cshtml",
+              "ToolTip": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Views\\SinhVien\\Create.cshtml",
+              "RelativeToolTip": "tuan4\\Views\\SinhVien\\Create.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-05T01:05:51.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Views\\SinhVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "tuan4\\Views\\SinhVien\\Index.cshtml",
+              "ToolTip": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Views\\SinhVien\\Index.cshtml",
+              "RelativeToolTip": "tuan4\\Views\\SinhVien\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-05T01:05:19.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "tuan4\\Controllers\\SinhVienController.cs",
+              "ToolTip": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "tuan4\\Controllers\\SinhVienController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T01:02:43.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20261005005937_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Migrations\\20261005005937_InitialCreate.cs",
+              "RelativeDocumentMoniker": "tuan4\\Migrations\\20261005005937_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Migrations\\20261005005937_InitialCreate.cs",
+              "RelativeToolTip": "tuan4\\Migrations\\20261005005937_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T00:59:38.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Program.cs",
+              "RelativeDocumentMoniker": "tuan4\\Program.cs",
+              "ToolTip": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Program.cs",
+              "RelativeToolTip": "tuan4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T00:57:46.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\appsettings.json",
+              "RelativeDocumentMoniker": "tuan4\\appsettings.json",
+              "ToolTip": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\appsettings.json",
+              "RelativeToolTip": "tuan4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T00:56:10.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "tuan4\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "tuan4\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T00:55:34.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "tuan4\\Models\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\khoa2\\source\\repos\\tuan4\\tuan4\\Models\\SinhVien.cs",
+              "RelativeToolTip": "tuan4\\Models\\SinhVien.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAywCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T00:54:59.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
